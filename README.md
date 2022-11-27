@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="150px" src="https://i.imgur.com/r9ldiQH.png" align="center" alt="G_Corporation" />
+  <img width="150px" src="https://i.imgur.com/r07H3Mu.png" align="center" alt="CocktailLogo" />
 </p>
 
-### <p align="center">G_Corporation</p>
+### <p align="center">Sylver MATSY</p>
 
 -----
 
