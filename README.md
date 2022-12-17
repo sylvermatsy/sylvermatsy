@@ -34,7 +34,7 @@
   </a>
 </p>
 
-[![Cocktail Discord](https://discordapp.com/api/guilds/786670914439610408/widget.png?style=banner4)](https://discord.gg/cocktaildev)
+<!-- [![Cocktail Discord](https://discordapp.com/api/guilds/786670914439610408/widget.png?style=banner4)](https://discord.gg/cocktaildev) -->
 
 -----
 
