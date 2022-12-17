@@ -34,6 +34,8 @@
   </a>
 </p>
 
+[![Cocktail Discord](https://discordapp.com/api/guilds/786670914439610408/widget.png?style=banner2)](https://discord.gg/cocktaildev)
+
 -----
 
 ### <p align="center">💰 &nbsp;Donnations PayPal.</p>
