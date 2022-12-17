@@ -25,7 +25,7 @@
 
 ### <p align="center">👁️‍🗨️ &nbsp;Cliquez pour rejoindre le discord</p>
 
-[![Cocktail Discord](https://discord.com/api/guilds/786670914439610408/widget.png?style=banner4)](https://discord.gg/cocktaildev)
+<p align="center">[![Cocktail Discord](https://discord.com/api/guilds/786670914439610408/widget.png?style=banner4)](https://discord.gg/cocktaildev)<\p>
 
 -----
 
