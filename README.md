@@ -2,7 +2,7 @@
   <img width="150px" src="https://i.imgur.com/r07H3Mu.png" align="center" alt="CocktailLogo" />
 </p>
 
-### <p align="center">Sylver MATSY</p>
+### <p align="center">MATSY</p>
 
 -----
 
